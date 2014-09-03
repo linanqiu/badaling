@@ -9,4 +9,7 @@ aldeed:simple-schema
 accounts-password
 accounts-facebook
 accounts-twitter
+meteorhacks:npm
 
+
+npm-container
