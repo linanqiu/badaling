@@ -5,3 +5,8 @@
 
 standard-app-packages
 iron:router
+aldeed:simple-schema
+accounts-password
+accounts-facebook
+accounts-twitter
+
